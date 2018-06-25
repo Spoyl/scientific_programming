@@ -15,6 +15,8 @@ class Text(object):
 
     @staticmethod
     def read_text(filename):
+        
+        
         """
         Read the text from the file 'filename' and return lowercase.
         """
